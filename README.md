@@ -1,2 +1,6 @@
 # Fraud-Analytics
-Fraud analytics about abnormal records, identification fraud and credit card transaction fraud
+Fraud analytics about:
+
+1.Application Identification Fraud Analytics
+
+2.Credit Card Transaction Fraud Analytics
